@@ -1,15 +1,11 @@
-# 3D-tiles-layer
+# 3D-tiles
 
-[3D Tiles](https://www.ogc.org/standard/3dtiles/) similar to [i3s](https://www.ogc.org/standard/i3s/) is an OGC standard representing large amounts of geographica data. This repo provides tooling related to 3D Tiles.
+[3D Tiles](https://www.ogc.org/standard/3dtiles/) similar to [i3s](https://www.ogc.org/standard/i3s/) is an OGC standard representing large amounts of geographica 3D data. This repo provides ESRI vendor extensions and tooling related to 3D Tiles.
 
 ## Features
 
-* Executable to create 3D tiles package (*.3tz) from a given 3D tiles dataset
-
-## Instructions
-
-1. Clone the repo.
-2. Run the executable ".\3tz_packager\3tz_packager.exe".
+* [ESRI_CRS extension](./ESRI_CRS/ESRI_CRS_Extension.md) to specify coordinate reference system.
+* Executable to create [3tz_packager (*.3tz)](./3tz_packager/3tz_packager_ReadMe.md) from a given 3D tiles dataset.
 
 ## Requirements
 
@@ -17,7 +13,8 @@
 
 ## Resources
 
-* [3tz_packager](./3tz_packager/3tz_packager_ReadMe.md)
+* [3tz_packager (*.3tz)](./3tz_packager/3tz_packager_ReadMe.md)
+* [Sample data for ESRI_CRS extension](./ESRI_CRS/ESRI_CRS_Sample). This data was collected by [Hnit-Baltic](https://www.gisbaltic.eu/en-gb/home) and [GeoNovus](https://www.geonovus.lt/) and processed with [ArcGIS Reality](https://www.esri.com/en-us/arcgis/products/arcgis-reality/overview). 
 
 ## Issues
 
