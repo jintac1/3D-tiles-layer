@@ -14,7 +14,7 @@
 ## Resources
 
 - [3tz_packager (\*.3tz)](./3tz_packager/3tz_packager_ReadMe.md)
-- [Sample data for ESRI_CRS extension](https://tiles.arcgis.com/tiles/HjGkPojhRLJzlfAa/arcgis/rest/services/Trakai_Island_Castle/3DTilesServer/tileset.json). This data was collected by [Hnit-Baltic](https://www.gisbaltic.eu/en-gb/home) and [GeoNovus](https://www.geonovus.lt/) and processed with [ArcGIS Reality](https://www.esri.com/en-us/arcgis/products/arcgis-reality/overview).
+- [Sample service with ESRI_CRS extension](https://tiles.arcgis.com/tiles/HjGkPojhRLJzlfAa/arcgis/rest/services/Trakai_Island_Castle/3DTilesServer/tileset.json). This data was collected by [Hnit-Baltic](https://www.gisbaltic.eu/en-gb/home) and [GeoNovus](https://www.geonovus.lt/) and processed with [ArcGIS Reality](https://www.esri.com/en-us/arcgis/products/arcgis-reality/overview). You can also view the Trakai Island Castle as [Gaussian splat layer](https://scenelayersteam.maps.arcgis.com/home/item.html?id=d3624736fdd443a59ec627f3e9924941).
 
 ## Issues
 
